@@ -23,3 +23,5 @@ const me = {
  
  ---
  ⭐️ From [@RT](https://github.com/rtgamingwdt)
+
+![RT's github stats](https://github-readme-stats.vercel.app/api?username=rtgamingwdt&show_icons=true&theme=dark)
