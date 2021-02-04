@@ -1,42 +1,25 @@
 ### Hi there 👋
 
-<h2> I'm Ashif Zafar! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">CDK Global Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2> I'm RT! <img src="https://media2.giphy.com/media/c5skRQb3BXp8RwKGKW/200w.webp?cid=ecf05e47e15suvcbl8fk5faja567wrt387c295u4lo1lwdup&rid=200w.webp" width="50"></h2>
+<img align='right' src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp?cid=ecf05e47tp8ubmkxwykf0g8e3bn0wd4lp7wdg6tdq29z8z4f&rid=200w.webp" width="230">
 
-[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
-[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
+[![Twitter: rtgamingwdt](https://img.shields.io/twitter/follow/rtgamingwdt?style=social)](https://twitter.com/rtgamingwdt)
+[![YouTube: RTGAMINGWDT](https://yt3.ggpht.com/ytc/AAUvwnhvo6FIcm4zzKR1mB1FlHQIz8TbwWy1K5vLcxxywA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCWtbPRoznaR58jCgHoymUtA)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/8Lc5xmvzRhlLy/100.webp?cid=ecf05e47a9qghkqiht5cz2ddtggk1rii1fwpni7u73ee6uih&rid=100.webp" width="50"> A little more about me...  
 
 ```javascript
-const ashifZafar = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
-  architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
-  techCommunities: {
-                        coorganizer: ["corbiton","apache", "unicef"],
-                        speaker: "English/Urdu",
-                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
-                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
-
-
-                                           
-                      },
+const me = {
+  code: [Javascript, HTML, CSS, Java],
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media2.giphy.com/media/ZazvVSkRzwyponrIA2/giphy.gif?cid=ecf05e47osy4ehzu00fur53e0vzrkzcyubb47zwqwa5tyrln&rid=giphy.gif" width="60"> <em><b>I love coding</b> so if you want to help me <b>hi, I'll be happy to talk to you!</b> :)</em>
 
 ---
 
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
+ <img src="https://media1.giphy.com/media/13k4VSc3ngLPUY/200w.webp?cid=ecf05e47zelv7u1ipvm6otritl4vo14s2ru948fspu4f8d50&rid=200w.webp" width="230">
  
  ---
- ⭐️ From [@Ashif](https://github.com/Ashif)
- 
- 
+ ⭐️ From [@RT](https://github.com/rtgamingwdt)
